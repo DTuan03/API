@@ -1,0 +1,14 @@
+C:\Users\tuanh\Downloads\Disk\Disk\bin\Debug\net6.0\Disk.exe
+C:\Users\tuanh\Downloads\Disk\Disk\bin\Debug\net6.0\Disk.deps.json
+C:\Users\tuanh\Downloads\Disk\Disk\bin\Debug\net6.0\Disk.runtimeconfig.json
+C:\Users\tuanh\Downloads\Disk\Disk\bin\Debug\net6.0\Disk.dll
+C:\Users\tuanh\Downloads\Disk\Disk\bin\Debug\net6.0\Disk.pdb
+C:\Users\tuanh\Downloads\Disk\Disk\obj\Debug\net6.0\Disk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuanh\Downloads\Disk\Disk\obj\Debug\net6.0\Disk.AssemblyInfoInputs.cache
+C:\Users\tuanh\Downloads\Disk\Disk\obj\Debug\net6.0\Disk.AssemblyInfo.cs
+C:\Users\tuanh\Downloads\Disk\Disk\obj\Debug\net6.0\Disk.csproj.CoreCompileInputs.cache
+C:\Users\tuanh\Downloads\Disk\Disk\obj\Debug\net6.0\Disk.dll
+C:\Users\tuanh\Downloads\Disk\Disk\obj\Debug\net6.0\refint\Disk.dll
+C:\Users\tuanh\Downloads\Disk\Disk\obj\Debug\net6.0\Disk.pdb
+C:\Users\tuanh\Downloads\Disk\Disk\obj\Debug\net6.0\Disk.genruntimeconfig.cache
+C:\Users\tuanh\Downloads\Disk\Disk\obj\Debug\net6.0\ref\Disk.dll
